@@ -10,7 +10,7 @@ public class Main {
 		/*
 		 * Reading the data
 		 */
-
+//DIKKE VETTE TEST TEST TEST GIT WERKT DIE TOELIE??
 		// Aanmaken van een een aantal classes
 		DataReader io = new DataReader();
 		Ttest TT = new Ttest();
