@@ -100,6 +100,7 @@ public class Main {
 					key.addstdv(kdf.getStdvDoubles(key.getsplitList()));
 				}
 				// Arie: wil je dit niet alleen doen als de key van type String is?
+				// JEROEN TEST GITHUB
 				key.addStripString(kdf.getStripString(bSet));
 				key.addUniqueStripString(kdf.getUniqueStripString(key.getStripString()));
 				key.addDiversity(kdf.getUniqueValues(vSet));
