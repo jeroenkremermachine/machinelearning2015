@@ -101,6 +101,7 @@ public class Main {
 				}
 				// Arie: wil je dit niet alleen doen als de key van type String is?
 				// JEROEN TEST GITHUB
+				// en nog een keer
 				key.addStripString(kdf.getStripString(bSet));
 				key.addUniqueStripString(kdf.getUniqueStripString(key.getStripString()));
 				key.addDiversity(kdf.getUniqueValues(vSet));
